@@ -14,7 +14,7 @@ NSString * const WowClassTypeWarlock        = @"Warlock";
 NSString * const WowClassTypeMonk           = @"Monk";
 NSString * const WowClassTypeDruid          = @"Druid";
 
-
+//
 NSString * const WowRaceNameHuman           = @"Human";
 NSString * const WowRaceNameOrc             = @"Orc";
 NSString * const WowRaceNameDwarf           = @"Dwarf";
